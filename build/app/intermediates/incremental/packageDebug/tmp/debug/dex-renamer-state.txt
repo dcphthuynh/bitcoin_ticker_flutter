@@ -1,0 +1,4 @@
+#Thu May 11 02:43:18 ICT 2023
+base.0=/Users/dcphthuynh/Documents/MobileDev (Flutter)/bitcoin_ticker_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
